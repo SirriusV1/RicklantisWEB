@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8D660e3d4931681B15433031F0c6Bb2bC1e31275",
+  "SCAN_LINK": "https://polygonscan.com/address/0x8d660e3d4931681b15433031f0c6bb2bc1e31275",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Ricklantis",
+  "SYMBOL": "Rick",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 45000000000000000000,
+  "DISPLAY_COST": 45,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-ricklantis",
+  "SHOW_BACKGROUND": true
+}
